@@ -4,7 +4,7 @@ Phishing Email Detection & Awareness System
 ## Project Overview
 This report focuses on phishing email detection and cybersecurity awareness.
 
-The aim of this report was to analyse email headers and identify phishing emails using free online cybersecurity tools.
+The aim of this task was to analyse email headers and identify phishing emails using free online cybersecurity tools.
 
 Three email samples were analysed:
 - One safe email
