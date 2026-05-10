@@ -37,5 +37,3 @@ Used to inspect suspicious links safely.
 
 - PhishTank
 Used to check phishing URLs.
-## Date
-May 2026
